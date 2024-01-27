@@ -1,6 +1,3 @@
-# mmd1
-
-
 # metr be santi metr
 
 from tkinter import *
